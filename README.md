@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, Soy Zuli</h1>
 <h3 align="center">Frontend Developer y Músico</h3>
 
-- 🔭 Actualmente estoy trabajando en **Burger Queen Project**
+- 🔭 Actualmente estoy trabajando en **Proyecto-Café**
 
-- 🌱 Aprendiendo **React, Firebase**
+- 🌱 Aprendiendo **React, Nest.Js**
 
 - 📫 Me puedes contactar aqui **contacto.zulielena@gmail.com**
 
